@@ -1,2 +1,2 @@
-# Basit_HTML_CSS_-RNE-
+# Basit_HTML_CSS_
 HTML_CSS_ÖRNEĞİ
